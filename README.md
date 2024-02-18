@@ -7,7 +7,7 @@
    - .NET Core,
    - .NET Framework,
    - WPF,
-   - EntityFremework
+   - EntityFramework
 
 ### СУБД
 1. MySQL
